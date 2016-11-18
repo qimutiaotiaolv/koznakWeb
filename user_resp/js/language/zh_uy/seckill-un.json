@@ -1,0 +1,21 @@
+
+{
+  "skill": {
+      "skill_title" : "تالىشىپ سېتىۋېلىش",
+    "skill_start" : "تىن كېيىن باشلىنىدۇ",
+    "skill_end" : "تىن كېيىن ئاخىرلىشىدۇ",
+      "skill_unstart" : "پائالىيەت باشلانمىدى",
+      "skill_isend" : "پائالىيەت ئاياغلاشتى",
+      "skill_iscontinue" : "مال سېتىلىپ تۈگىدى،ئەسلى باھاسىدا داۋاملىق سېتىۋالامسىز؟",
+      "skill_yes" : "ھەئە",
+      "skill_no" : "ياق",
+      "skill_nostorage" : "سېتىلىپ بولدى",
+      "skill_process" : "سېتىلىشى",
+      "skill_storage" : "ئامبار قالدۇقى",
+
+      "skill_button_buy" : "تالىشىش",
+      "skill_button_end" : "ئاياغلاشتى",
+      "skill_button_over" : "مال تۈگىدى",
+      "skill_notstart_iscontinue" : "پائالىيەت تېخى باشلانمىدى،ئەسلى باھاسىدا داۋاملىق سېتىۋالامسىز؟"
+  }
+}

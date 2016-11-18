@@ -1,0 +1,66 @@
+/*
+ * 商品详情语言包
+ * 
+ * zzh    2015-11-1 15:41:16
+ * 
+ * */
+language_array['goods']='商品';
+language_array['goods_body']='详情';
+language_array['goods_eva']='评价';
+language_array['virtual']='虚拟';
+language_array['presell']='预售';
+language_array['fcode']='F码';
+language_array['promotion_mobile']='手机专享';
+language_array['sale_volume']='销量';
+language_array['sale_num']='件';
+language_array['promotion']='促销';
+language_array['down_price']='直降';
+language_array['lower_limit']='最低';
+language_array['lower_limit_num']='件起，';
+language_array['buy_max']='最多限购';
+language_array['mansong']='满即送';
+language_array['danbiman']='单笔订单满';
+language_array['discount']='立减';
+language_array['mansong_gift']='送礼品';
+language_array['gift']='赠品';
+language_array['voucher']='券';
+language_array['get_voucher']='点击领取店铺代金券';
+language_array['to']='送至';
+language_array['store_info']='商家信息';
+language_array['selected']='已选';
+language_array['default']='默认';
+language_array['server']='服务';
+language_array['by']='由';
+language_array['server_info']='销售和发货，并享受售后服务';
+language_array['goods_eva_list']='商品评价';
+language_array['good_scale_rate']='好评率';
+language_array['eva_num']='人评价';
+language_array['desccredit']='描述相符';
+language_array['servicecredit']='服务态度';
+language_array['deliverycredit']='发货速度';
+language_array['store_recom']='商铺推荐';
+language_array['goods_info_btn_text']='点击查看商品详情';
+language_array['add_cart']='加入购物车';
+language_array['buy_now']='立即购买';
+language_array['go_back_btn']='点击此处返回';
+language_array['goods_storage']='库存';
+language_array['take_way']='提货方式';
+language_array['e_voucher']='电子兑换券';
+language_array['validity']='有效期';
+language_array['de_dato']='即日起到';
+language_array['xiangou_1']='每人次限购';
+language_array['deliver_date']='日发货';
+language_array['presell']='预售';
+language_array['buy_type']='购买类型';
+language_array['code_first']='F码优先购买';
+language_array['code_first_txt']='（每个F码优先购买一件商品）';
+language_array['buy_num']='购买数量';
+language_array['money']='面额';
+language_array['need_money']='需消费';
+language_array['to_time']='至';
+language_array['rmb']='元';
+language_array['use']='使用';
+language_array['use_before']='前使用';
+language_array['get']='领取';
+language_array['see_map']='查看地图';
+language_array['groupbuy_now']='立即抢购';

@@ -1,0 +1,33 @@
+module.exports = function(grunt){
+    grunt.initConfig({
+        pkg:grunt.file.readJSON('package.json'),
+        uglify:{
+            static_mappings:{
+                files:[{
+                    src:'./js/main.js',
+                    dest:'./dest/main.min.js'
+                },{
+                    src:'./js/comm1.js',
+                    dest:'./dest/comm1.min.js'
+                }],
+            },
+        },
+        concat:{
+            bar:{
+                src:'./dest/*.js',
+                dest:'./dest/all.min.js',
+            },
+        },
+        watch:{
+            files:['./js/comm1.js','./js/main.js'],
+            tasks:['uglify','concat'],
+        },
+    });
+    /*压缩*/
+    grunt.loadNpmTasks('grunt-contrib-uglify'); 
+    /*合并*/
+    grunt.loadNpmTasks('grunt-contrib-concat');
+    /*监控文件变化。并执行任务*/
+    grunt.loadNpmTasks('grunt-contrib-watch');
+    grunt.registerTask('default',['uglify','concat','watch']);
+};

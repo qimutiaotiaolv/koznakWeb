@@ -1,0 +1,21 @@
+{
+  "skill": {
+    "skill_title": "秒杀",
+    "skill_yes": "是",
+    "skill_no": "否",
+    "skill_start": "距开始时间",
+    "skill_end": "距结束时间",
+    "skill_unstart": "活动还没开始",
+    "skill_isend": "活动已经结束",
+    "skill_iscontinue": "库存不足,是否继续",
+    "skill_nostorage": "库存不足",
+    "skill_process": "已抢购",
+    "skill_storage" : "库存",
+
+    "skill_button_buy" : "抢购",
+    "skill_button_end" : "结束",
+    "skill_button_over" : "抢完"
+
+  }
+}
+
